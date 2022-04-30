@@ -1,4 +1,4 @@
-FROM willfarrell/autoheal
+FROM mailserver/docker-mailserver
 
 LABEL maintainer "Dschinghis Kahn"
 
