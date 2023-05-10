@@ -1,4 +1,4 @@
-FROM mailserver/docker-mailserver:12.0.0
+FROM mailserver/docker-mailserver:12.1.0
 
 LABEL maintainer "Dschinghis Kahn"
 
